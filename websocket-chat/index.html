@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+  <body>
+    <h1>Chat</h1>
+    <div id="chat"></div>
+    <input id="msg" type="text" />
+    <style>
+      input {
+        border: 1px solid green;
+      }
+    </style>
+    <script>
+      const CHAR_RETURN = 13;
+
+      const socket = new WebSocket('ws://127.0.0.1:8000/chat');
+      const nickname = document.createElement('input');
+      const chat = document.getElementById('chat');
+      const msg = document.getElementById('msg');
+      msg.focus();
+
+      const writeLine = (text) => {
+        chat.innerHTML += `<p>${text}</p>`;
+      };
+
+      socket.addEventListener('open', () => {
+        writeLine('connected');
+        socket.send('connected');
+      });
+
+      socket.addEventListener('close', () => {
+        writeLine('closed');
+        socket.send('close');
+      });
+
+      socket.addEventListener('message', ({ data }) => {
+        console.log('message');
+        writeLine(data);
+      });
+
+      msg.addEventListener('keydown', (event) => {
+        if (event.keyCode === CHAR_RETURN) {
+          const s = msg.value;
+          msg.value = '';
+          writeLine(s);
+          socket.send(s);
+        }
+      });
+    </script>
+  </body>
+</html>

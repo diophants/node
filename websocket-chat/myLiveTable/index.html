@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>LiveTable</title>
+  </head>
+  <body>
+    <style>
+      input {
+        border: solid;
+        border-color: green;
+        border-width: 1px;
+        width: 40px;
+      }
+    </style>
+    <table id="table"></table>
+    <script>
+      const socket = new WebSocket('ws://localhost:8000');
+      const table = document.getElementById('table');
+      const cells = {};
+      const laters = ['A', 'B', 'C', 'D', 'E', 'F'];
+
+      socket.addEventListener('message', ({ data }) => {
+        const change = JSON.parse(data);
+        const cell = cells[change.cell];
+        cell.value = change.value;
+      });
+
+      const tr = document.createElement('tr');
+      tr.innerHTML =
+        '<td></td>' + laters.map((el) => `<td>${el}</td>`).join('');
+      table.appendChild(tr);
+
+      const keyup = (data) => {
+        socket.send(
+          JSON.stringify({
+            cell: data.target.id,
+            value: data.target.value,
+          })
+        );
+      };
+
+      const createRow = (line) => {
+        const tr = document.createElement('tr');
+        tr.innerHTML =
+          `<td>${line}</td>` +
+          laters.map((l) => `<td><input id="${l}${line}"></td>`).join('');
+        table.appendChild(tr);
+        laters.forEach((l) => {
+          const cell = l + line;
+          const input = document.getElementById(cell);
+          input.addEventListener('keyup', keyup);
+          cells[cell] = input;
+        });
+      };
+
+      for (let i = 1; i <= 5; i++) createRow(i);
+    </script>
+  </body>
+</html>

@@ -1,0 +1,7 @@
+<input id="textField" value="Text field." />
+<button id="focusButton">Click to set focus on the text field</button>
+<script>
+  document.getElementById('focusButton').addEventListener('click', () => {
+    document.getElementById('textField').focus();
+  });
+</script>

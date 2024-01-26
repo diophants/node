@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Autorization</title>
+  </head>
+  <body>
+    <script>
+      const api = {};
+
+      const buildAPI = (list = null) => {
+        if (!list) {
+          fetch('/api/')
+            .then((res) => res.json())
+            .then(buildAPI)
+            .catch((err) => console.log(err));
+          return;
+        }
+        for (const method of list) {
+          const url = `/api/${method}`;
+          api[method] = (...args) =>
+            new Promise((resolve, reject) => {
+              fetch(url, {
+                method: 'POST',
+                headers: { 'Content-type': 'application/json' },
+                body: JSON.stringify(args),
+              })
+                .then((res) => resolve(res.json()))
+                .catch((err) => reject(err));
+            });
+        }
+        return api;
+      };
+
+      const getUserId = async () => {
+        let deviceId = localStorage.getItem('deviceId');
+        if (!deviceId) {
+          try {
+            await api
+              .generateId()
+              .then((res) => {
+                console.log(res);
+                localStorage.setItem('deviceId', res);
+              })
+              .catch((err) => console.log('async: ', err.message));
+          } catch (err) {
+            console.log('sync: ', err);
+            setTimeout(getUserId, 100);
+          }
+        }
+      };
+
+      buildAPI();
+      getUserId();
+
+      console.log(localStorage);
+      // localStorage.removeItem('deviceId')
+    </script>
+  </body>
+</html>
