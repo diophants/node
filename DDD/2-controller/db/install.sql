@@ -1,0 +1,4 @@
+DROP DATABASE IF EXISTS example;
+DROP USER IF EXISTS diophant;
+CREATE USER diophant WITH PASSWORD 'diophant';
+CREATE DATABASE example OWNER diophant;
