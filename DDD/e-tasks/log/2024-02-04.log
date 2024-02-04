@@ -1,0 +1,14 @@
+2024-02-04T20:50:00	API on port 8000
+2024-02-04T20:50:00	Static on port 8001
+{"level":30,"time":1707080131655,"pid":23516,"hostname":"DESKTOP-LJUN9JE","msg":"API on port 8000"}
+2024-02-04T20:55:31	Static on port 8001
+{"level":30,"time":1707080188231,"pid":19304,"hostname":"DESKTOP-LJUN9JE","msg":"API on port 8000"}
+{"level":30,"time":1707080188232,"pid":19304,"hostname":"DESKTOP-LJUN9JE","msg":"Static on port 8001"}
+{"level":30,"time":1707080209526,"pid":19304,"hostname":"DESKTOP-LJUN9JE","msg":"/country"}
+{"level":30,"time":1707080209526,"pid":19304,"hostname":"DESKTOP-LJUN9JE","msg":"::1 GET /country"}
+{"level":30,"time":1707080209526,"pid":19304,"hostname":"DESKTOP-LJUN9JE"}
+{"level":30,"time":1707080209526,"pid":19304,"hostname":"DESKTOP-LJUN9JE","msg":"API country: "}
+{"level":30,"time":1707080294663,"pid":19304,"hostname":"DESKTOP-LJUN9JE","msg":"/country"}
+{"level":30,"time":1707080294663,"pid":19304,"hostname":"DESKTOP-LJUN9JE","msg":"::1 GET /country"}
+{"level":30,"time":1707080294663,"pid":19304,"hostname":"DESKTOP-LJUN9JE"}
+{"level":30,"time":1707080294663,"pid":19304,"hostname":"DESKTOP-LJUN9JE","msg":"API country: "}

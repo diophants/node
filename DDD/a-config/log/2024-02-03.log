@@ -1,0 +1,10 @@
+2024-02-03T14:05:22	API on port 8000
+2024-02-03T14:05:22	Static on port 8001
+2024-02-03T14:05:49	Connected: ::1
+2024-02-03T14:05:49	::1 country.delete(4)
+2024-02-03T14:05:49	::1 country.read()
+2024-02-03T14:05:49	API country:  undefined
+2024-02-03T14:06:13	Connected: ::1
+2024-02-03T14:06:13	::1 country.delete(4)
+2024-02-03T14:06:14	::1 country.read()
+2024-02-03T14:06:14	API country:  undefined

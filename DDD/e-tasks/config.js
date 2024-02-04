@@ -19,4 +19,10 @@ module.exports = {
   transport: {
     protocol: 'http',
   },
+  framework: {
+    // native: 'fastify',
+  },
+  library: {
+    logger: 'pino',
+  },
 };
