@@ -12,3 +12,146 @@
 {"level":30,"time":1707080294663,"pid":19304,"hostname":"DESKTOP-LJUN9JE","msg":"::1 GET /country"}
 {"level":30,"time":1707080294663,"pid":19304,"hostname":"DESKTOP-LJUN9JE"}
 {"level":30,"time":1707080294663,"pid":19304,"hostname":"DESKTOP-LJUN9JE","msg":"API country: "}
+{"level":30,"time":1707088357736,"pid":2224,"hostname":"DESKTOP-LJUN9JE","msg":"API on port 8000"}
+{"level":30,"time":1707088357736,"pid":2224,"hostname":"DESKTOP-LJUN9JE","msg":"Static on port 8001"}
+2024-02-04T23:13:42	API on port 8000
+2024-02-04T23:13:42	Static on port 8001
+2024-02-04T23:13:48	{}
+2024-02-04T23:13:48	Static on port 8001
+2024-02-04T23:13:48	Fastify. API on port 8000
+2024-02-04T23:14:58	[]
+2024-02-04T23:14:58	Static on port 8001
+2024-02-04T23:14:58	Fastify. API on port 8000
+2024-02-04T23:16:00	Static on port 8001
+2024-02-04T23:16:00	Fastify. API on port 8000
+2024-02-04T23:24:34	Static on port 8001
+2024-02-04T23:24:35	{; city: {; query: [Function: query],; read: [Function: read],; create: [Function: create],; update: [Function: update],; delete: [Function: delete]; },; country: {; read: [Function: read],; find: [Function: find],; delete: [Function: delete]; },; user: {; read: [Function: read],; create: [AsyncFunction: create],; update: [AsyncFunction: update],; delete: [Function: delete]; }; }
+2024-02-04T23:24:36	{; city: {; query: [Function: query],; read: [Function: read],; create: [Function: create],; update: [Function: update],; delete: [Function: delete]; },; country: {; read: [Function: read],; find: [Function: find],; delete: [Function: delete]; },; user: {; read: [Function: read],; create: [AsyncFunction: create],; update: [AsyncFunction: update],; delete: [Function: delete]; }; }
+2024-02-04T23:24:53	Static on port 8001
+2024-02-04T23:24:53	{}
+2024-02-04T23:24:57	Static on port 8001
+2024-02-04T23:24:57	{}
+2024-02-04T23:25:01	Static on port 8001
+2024-02-04T23:25:01	{; city: {; query: [Function: query],; read: [Function: read],; create: [Function: create],; update: [Function: update],; delete: [Function: delete]; },; country: {; read: [Function: read],; find: [Function: find],; delete: [Function: delete]; },; user: {; read: [Function: read],; create: [AsyncFunction: create],; update: [AsyncFunction: update],; delete: [Function: delete]; }; }
+2024-02-04T23:25:16	Static on port 8001
+2024-02-04T23:25:16	{}
+2024-02-04T23:27:16	Static on port 8001
+2024-02-04T23:27:16	{; city: {; query: [Function: query],; read: [Function: read],; create: [Function: create],; update: [Function: update],; delete: [Function: delete]; },; country: {; read: [Function: read],; find: [Function: find],; delete: [Function: delete]; },; user: {; read: [Function: read],; create: [AsyncFunction: create],; update: [AsyncFunction: update],; delete: [Function: delete]; }; }
+2024-02-04T23:31:18	Static on port 8001
+2024-02-04T23:31:18	Fastify. API on port 8000
+2024-02-04T23:32:20	Static on port 8001
+2024-02-04T23:32:20	Fastify. API on port 8000
+2024-02-04T23:32:37	Static on port 8001
+2024-02-04T23:32:37	Fastify. API on port 8000
+2024-02-04T23:38:51	Static on port 8001
+2024-02-04T23:38:51	city
+2024-02-04T23:38:51	country
+2024-02-04T23:38:51	user
+2024-02-04T23:38:51	Fastify. API on port 8000
+2024-02-04T23:39:13	Static on port 8001
+2024-02-04T23:39:13	city
+2024-02-04T23:39:13	country
+2024-02-04T23:39:13	user
+2024-02-04T23:39:13	{; city: {; query: [Function: query],; read: [Function: read],; create: [Function: create],; update: [Function: update],; delete: [Function: delete]; },; country: {; read: [Function: read],; find: [Function: find],; delete: [Function: delete]; },; user: {; read: [Function: read],; create: [AsyncFunction: create],; update: [AsyncFunction: update],; delete: [Function: delete]; }; }
+2024-02-04T23:39:13	Fastify. API on port 8000
+2024-02-04T23:47:39	Static on port 8001
+2024-02-04T23:48:14	Static on port 8001
+2024-02-04T23:48:14	undefined
+2024-02-04T23:48:29	Static on port 8001
+2024-02-04T23:48:29	query
+2024-02-04T23:48:54	Static on port 8001
+2024-02-04T23:48:54	query
+2024-02-04T23:48:54	read
+2024-02-04T23:48:54	create
+2024-02-04T23:48:54	update
+2024-02-04T23:48:54	delete
+2024-02-04T23:48:54	delete
+2024-02-04T23:48:54	read
+2024-02-04T23:48:54	find
+2024-02-04T23:48:54	delete
+2024-02-04T23:48:54	delete
+2024-02-04T23:48:54	read
+2024-02-04T23:48:54	create
+2024-02-04T23:48:54	update
+2024-02-04T23:48:54	delete
+2024-02-04T23:48:54	delete
+2024-02-04T23:48:54	{; city: {; query: [Function: query],; read: [Function: read],; create: [Function: create],; update: [Function: update],; delete: [Function: delete]; },; country: {; read: [Function: read],; find: [Function: find],; delete: [Function: delete]; },; user: {; read: [Function: read],; create: [AsyncFunction: create],; update: [AsyncFunction: update],; delete: [Function: delete]; }; }
+2024-02-04T23:48:54	Fastify. API on port 8000
+2024-02-04T23:49:09	Static on port 8001
+2024-02-04T23:49:09	query
+2024-02-04T23:49:16	Static on port 8001
+2024-02-04T23:49:17	Fastify. API on port 8000
+2024-02-04T23:49:53	Static on port 8001
+2024-02-04T23:49:53	city
+2024-02-04T23:49:53	country
+2024-02-04T23:49:53	user
+2024-02-04T23:49:53	Fastify. API on port 8000
+2024-02-04T23:50:39	Static on port 8001
+2024-02-04T23:50:39	delete city
+2024-02-04T23:50:39	delete country
+2024-02-04T23:50:39	delete user
+2024-02-04T23:50:39	Fastify. API on port 8000
+2024-02-04T23:50:54	Static on port 8001
+2024-02-04T23:50:54	undefined
+2024-02-04T23:50:54	undefined
+2024-02-04T23:50:54	undefined
+2024-02-04T23:50:54	undefined
+2024-02-04T23:50:54	delete
+2024-02-04T23:50:54	delete city
+2024-02-04T23:50:54	undefined
+2024-02-04T23:50:54	undefined
+2024-02-04T23:50:54	delete
+2024-02-04T23:50:54	delete country
+2024-02-04T23:50:54	undefined
+2024-02-04T23:50:54	undefined
+2024-02-04T23:50:54	undefined
+2024-02-04T23:50:54	delete
+2024-02-04T23:50:54	delete user
+2024-02-04T23:50:54	Fastify. API on port 8000
+2024-02-04T23:51:14	Static on port 8001
+2024-02-04T23:51:14	query undefined
+2024-02-04T23:51:14	read undefined
+2024-02-04T23:51:14	create undefined
+2024-02-04T23:51:14	update undefined
+2024-02-04T23:51:14	delete delete
+2024-02-04T23:51:14	read undefined
+2024-02-04T23:51:14	find undefined
+2024-02-04T23:51:14	delete delete
+2024-02-04T23:51:14	read undefined
+2024-02-04T23:51:14	create undefined
+2024-02-04T23:51:14	update undefined
+2024-02-04T23:51:14	delete delete
+2024-02-04T23:51:14	Fastify. API on port 8000
+2024-02-04T23:51:34	Static on port 8001
+2024-02-04T23:51:34	query undefined
+2024-02-04T23:52:01	Static on port 8001
+2024-02-04T23:52:01	query undefined
+2024-02-04T23:52:01	read get
+2024-02-04T23:52:01	create post
+2024-02-04T23:52:01	update put
+2024-02-04T23:52:01	delete delete
+2024-02-04T23:52:01	read get
+2024-02-04T23:52:01	find undefined
+2024-02-04T23:52:01	delete delete
+2024-02-04T23:52:01	read get
+2024-02-04T23:52:01	create post
+2024-02-04T23:52:01	update put
+2024-02-04T23:52:01	delete delete
+2024-02-04T23:52:01	Fastify. API on port 8000
+2024-02-04T23:52:10	Static on port 8001
+2024-02-04T23:52:10	Fastify. API on port 8000
+2024-02-04T23:52:12	Result {; command: 'SELECT',; rowCount: 8,; oid: null,; rows: [; {; id: '1',; login: 'admin',; password: 'xkBaB29tzhgKCOa86iBJrA==:NEYmWWjU9oORZ7JOE4uELWQiUu4/MSpL3ybEV8Iwz39+lI+mDhaok0krN1pKQWfQfoVNzBa57F1020njPI4eSQ=='; },; {; id: '2',; login: 'diophant',; password: 'tpDsUjmTVao5+HH+Vh3L8g==:qslE0EeXZzHMqecYGfSEDYkFFQ6EBithTgi/r3vso7O8JXZPpwmFddz1nOTgSHVSbVEu65Tvh+QHG5m0f3lWpA=='; },; {; id: '3',; login: 'user',; password: 'jv/nOhkORj+WOc9TYHD7iQ==:b1V0L3g4THIqRYMWGWNQpxiGx97CRiE3TqRJ961UToUm3vjLTv8sKFqWSlSDesW54qx9ZF+/LZm79qNisxJQhQ=='; },; {; id: '4',; login: 'vasya',; password: 'riT2AogySHr/+BqRTQhHpA==:LXAcm6aupOE3kuEu+sVHgE2+BI8tp25J+hLO3gPLpYa7Ei4SPzodZvUWIuMzW0LtwVnuCf+025vwWscEyA6QjA=='; },; {; id: '6',; login: 'Ivan',; password: 'RKWAK5rNxN0xGWM91Ybj5w==:h/CpmWA7bP9bAzALHndzcvteWjdmwWCdTuAyMXhxNgWnRmkTGVTByruMLxFeMaig/11zYHqYrghyP3KOHjFKBw=='; },; {; id: '7',; login: 'Petya',; password: '9BAY7nkQLvZ1yjQkMDf60A==:8Xn8SC9rK2QzvSVtnHuFdVSrRoL9ASmQMUXw/rhy85qgluDszkhIJaR9nEK6yQHtPRvsuQGM8ICjTXvSGDl+5Q=='; },; {; id: '9',; login: 'Ivan1',; password: 'C1FEx/+Vo1GlZSUXr7Lo5w==:Kw4IqSQQxb11Lt+ZkQQ5EneyeoX+3KtgaBp4RAuvz4K62ji1uQEiFyuTXHP7wzCAGF0JhFVY7NWOTou3nsm4cw=='; },; {; id: '14',; login: 'Petya123',; password: 'gwR7rR2HaGKdJeT9Tnz/Tw==:f9WgU5leaV6EoYg0bal6iHBInu7ULA2VUm5+sAidlLNDkrhxs0POnfsnTw9CtqZaqntJClpVucelmuDhDWIxig=='; }; ],; fields: [; Field {; name: 'id',; tableID: 17237,; columnID: 1,; dataTypeID: 20,; dataTypeSize: 8,; dataTypeModifier: -1,; format: 'text'; },; Field {; name: 'login',; tableID: 17237,; columnID: 2,; dataTypeID: 1043,; dataTypeSize: -1,; dataTypeModifier: -1,; format: 'text'; },; Field {; name: 'password',; tableID: 17237,; columnID: 3,; dataTypeID: 1043,; dataTypeSize: -1,; dataTypeModifier: -1,; format: 'text'; }; ],; _parsers: [; [Function: parseBigInteger],; [Function: noParse],; [Function: noParse]; ],; _types: TypeOverrides {; _types: {; getTypeParser: [Function: getTypeParser],; setTypeParser: [Function: setTypeParser],; arrayParser: [Object],; builtins: [Object]; },; text: {},; binary: {}; },; RowCtor: null,; rowAsArray: false,; _prebuiltEmptyResultObject: { id: null, login: null, password: null }; }
+2024-02-04T23:52:26	Static on port 8001
+2024-02-04T23:52:26	Fastify. API on port 8000
+2024-02-04T23:52:35	Static on port 8001
+2024-02-04T23:52:35	Fastify. API on port 8000
+2024-02-04T23:52:51	Static on port 8001
+2024-02-04T23:52:59	Static on port 8001
+2024-02-04T23:53:21	API country:  
+2024-02-04T23:54:41	Static on port 8001
+2024-02-04T23:56:09	Static on port 8001
+2024-02-04T23:56:48	Static on port 8001
+2024-02-04T23:56:56	Static on port 8001
+2024-02-04T23:56:56	Fastify. API on port 8000
+2024-02-04T23:57:12	Static on port 8001
+2024-02-04T23:57:12	Fastify. API on port 8000

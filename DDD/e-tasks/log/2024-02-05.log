@@ -1,0 +1,167 @@
+2024-02-05T00:01:03	Static on port 8001
+2024-02-05T00:01:03	Fastify. API on port 8000
+2024-02-05T00:01:24	Static on port 8001
+2024-02-05T00:01:24	Fastify. API on port 8000
+2024-02-05T00:01:26	done
+2024-02-05T00:01:29	done
+2024-02-05T00:06:39	Static on port 8001
+2024-02-05T00:06:39	Fastify. API on port 8000
+2024-02-05T00:06:41	[ 'user', '1' ]
+2024-02-05T00:06:54	Static on port 8001
+2024-02-05T00:06:54	Fastify. API on port 8000
+2024-02-05T00:07:03	Static on port 8001
+2024-02-05T00:07:03	Fastify. API on port 8000
+2024-02-05T00:07:05	1
+2024-02-05T00:07:42	Static on port 8001
+2024-02-05T00:07:42	Fastify. API on port 8000
+2024-02-05T00:07:43	1
+2024-02-05T00:08:02	NaN
+2024-02-05T00:08:19	Static on port 8001
+2024-02-05T00:08:19	Fastify. API on port 8000
+2024-02-05T00:08:21	NaN
+2024-02-05T00:08:23	1
+2024-02-05T00:12:31	Static on port 8001
+2024-02-05T00:12:31	Fastify. API on port 8000
+2024-02-05T00:12:33	read(id
+2024-02-05T00:12:39	async update(id, { login, password }
+2024-02-05T00:15:11	Static on port 8001
+2024-02-05T00:15:11	Fastify. API on port 8000
+2024-02-05T00:16:14	Static on port 8001
+2024-02-05T00:16:14	Fastify. API on port 8000
+2024-02-05T00:16:29	Static on port 8001
+2024-02-05T00:16:29	Fastify. API on port 8000
+2024-02-05T00:16:53	Static on port 8001
+2024-02-05T00:16:53	city
+2024-02-05T00:16:53	city
+2024-02-05T00:16:53	city
+2024-02-05T00:16:53	city
+2024-02-05T00:16:53	country
+2024-02-05T00:16:53	country
+2024-02-05T00:16:53	user
+2024-02-05T00:16:53	user
+2024-02-05T00:16:53	user
+2024-02-05T00:16:53	user
+2024-02-05T00:16:53	Fastify. API on port 8000
+2024-02-05T00:17:14	Static on port 8001
+2024-02-05T00:17:14	get city
+2024-02-05T00:17:14	post city
+2024-02-05T00:17:14	put city
+2024-02-05T00:17:14	delete city
+2024-02-05T00:17:14	get country
+2024-02-05T00:17:14	delete country
+2024-02-05T00:17:14	get user
+2024-02-05T00:17:14	post user
+2024-02-05T00:17:14	put user
+2024-02-05T00:17:14	delete user
+2024-02-05T00:17:14	Fastify. API on port 8000
+2024-02-05T00:17:48	Static on port 8001
+2024-02-05T00:17:48	Fastify. API on port 8000
+2024-02-05T00:17:59	Static on port 8001
+2024-02-05T00:17:59	Fastify. API on port 8000
+2024-02-05T00:18:01	/city
+2024-02-05T00:18:54	Static on port 8001
+2024-02-05T00:18:54	Fastify. API on port 8000
+2024-02-05T00:19:07	Static on port 8001
+2024-02-05T00:19:07	Fastify. API on port 8000
+2024-02-05T00:19:09	/user/1
+2024-02-05T00:19:15	/city/1
+2024-02-05T00:19:23	/country/1
+2024-02-05T00:19:23	API country:  1
+2024-02-05T00:19:37	/user/
+2024-02-05T00:20:00	/city/
+2024-02-05T00:20:03	/city/1
+2024-02-05T00:20:09	/city/
+2024-02-05T00:20:17	/country/
+2024-02-05T00:20:17	API country:  
+2024-02-05T00:21:07	Static on port 8001
+2024-02-05T00:21:07	Fastify. API on port 8000
+2024-02-05T00:21:13	API country:  1
+2024-02-05T00:21:13	get /country/1
+2024-02-05T00:23:36	Static on port 8001
+2024-02-05T00:23:36	Fastify. API on port 8000
+2024-02-05T00:24:13	Static on port 8001
+2024-02-05T00:24:14	Fastify. API on port 8000
+2024-02-05T00:33:01	Static on port 8001
+2024-02-05T00:33:01	Fastify. API on port 8000
+2024-02-05T00:33:02	API country:  
+2024-02-05T00:33:03	get /country/
+2024-02-05T00:33:45	API country:  1
+2024-02-05T00:33:45	get /country/1
+2024-02-05T00:34:07	Static on port 8001
+2024-02-05T00:34:07	Fastify. API on port 8000
+2024-02-05T00:34:10	get /country/1
+2024-02-05T00:34:10	API country:  1
+2024-02-05T00:35:47	Static on port 8001
+2024-02-05T00:35:47	fastify.get('/city/:id')
+2024-02-05T00:35:47	fastify.post('/city/:id')
+2024-02-05T00:35:47	fastify.put('/city/:id')
+2024-02-05T00:35:47	fastify.delete('/city/:id')
+2024-02-05T00:35:47	fastify.get('/country/:id')
+2024-02-05T00:35:47	fastify.delete('/country/:id')
+2024-02-05T00:35:47	fastify.get('/user/:id')
+2024-02-05T00:35:47	fastify.post('/user/:id')
+2024-02-05T00:35:47	fastify.put('/user/:id')
+2024-02-05T00:35:47	fastify.delete('/user/:id')
+2024-02-05T00:35:47	Fastify. API on port 8000
+2024-02-05T00:38:29	Static on port 8001
+2024-02-05T00:38:29	fastify.get('/city/:id')
+2024-02-05T00:38:29	fastify.post('/city/:id')
+2024-02-05T00:38:29	fastify.put('/city/:id')
+2024-02-05T00:38:29	fastify.delete('/city/:id')
+2024-02-05T00:38:29	fastify.get('/country/:id')
+2024-02-05T00:38:29	fastify.delete('/country/:id')
+2024-02-05T00:38:29	fastify.get('/user/:id')
+2024-02-05T00:38:29	fastify.post('/user/:id')
+2024-02-05T00:38:29	fastify.put('/user/:id')
+2024-02-05T00:38:29	fastify.delete('/user/:id')
+2024-02-05T00:38:29	Fastify. API on port 8000
+2024-02-05T00:38:33	step
+2024-02-05T00:38:36	step
+2024-02-05T00:38:47	Static on port 8001
+2024-02-05T00:38:47	fastify.get('/city/:id')
+2024-02-05T00:38:47	fastify.post('/city/:id')
+2024-02-05T00:38:47	fastify.put('/city/:id')
+2024-02-05T00:38:47	fastify.delete('/city/:id')
+2024-02-05T00:38:47	fastify.get('/country/:id')
+2024-02-05T00:38:47	fastify.delete('/country/:id')
+2024-02-05T00:38:47	fastify.get('/user/:id')
+2024-02-05T00:38:47	fastify.post('/user/:id')
+2024-02-05T00:38:47	fastify.put('/user/:id')
+2024-02-05T00:38:47	fastify.delete('/user/:id')
+2024-02-05T00:38:47	Fastify. API on port 8000
+2024-02-05T00:38:49	step
+2024-02-05T00:38:49	post /city/
+2024-02-05T00:39:17	Static on port 8001
+2024-02-05T00:39:17	Fastify. API on port 8000
+2024-02-05T00:39:18	post /city/
+2024-02-05T00:39:18	[ { name: 'China' } ]
+2024-02-05T00:39:33	Static on port 8001
+2024-02-05T00:39:33	Fastify. API on port 8000
+2024-02-05T00:39:34	post /city/
+2024-02-05T00:39:45	get /city/
+2024-02-05T00:39:45	Result {; command: 'SELECT',; rowCount: 6,; oid: null,; rows: [; { id: 1, name: 'Tokyo', country: 1 },; { id: 2, name: 'Saint Petersburg', country: 5 },; { id: 4, name: 'San Francisco', country: 2 },; { id: 5, name: 'Krasnodar', country: 5 },; { id: 6, name: 'Santa Carla', country: 3 },; { id: 7, name: 'Now Youk', country: 2 }; ],; fields: [; Field {; name: 'id',; tableID: 17268,; columnID: 1,; dataTypeID: 23,; dataTypeSize: 4,; dataTypeModifier: -1,; format: 'text'; },; Field {; name: 'name',; tableID: 17268,; columnID: 2,; dataTypeID: 1043,; dataTypeSize: -1,; dataTypeModifier: 68,; format: 'text'; },; Field {; name: 'country',; tableID: 17268,; columnID: 3,; dataTypeID: 23,; dataTypeSize: 4,; dataTypeModifier: -1,; format: 'text'; }; ],; _parsers: [; [Function: parseInteger],; [Function: noParse],; [Function: parseInteger]; ],; _types: TypeOverrides {; _types: {; getTypeParser: [Function: getTypeParser],; setTypeParser: [Function: setTypeParser],; arrayParser: [Object],; builtins: [Object]; },; text: {},; binary: {}; },; RowCtor: null,; rowAsArray: false,; _prebuiltEmptyResultObject: { id: null, name: null, country: null }; }
+2024-02-05T00:39:49	post /city/
+2024-02-05T00:40:17	post /city/
+2024-02-05T00:40:27	Static on port 8001
+2024-02-05T00:40:27	Fastify. API on port 8000
+2024-02-05T00:40:34	Static on port 8001
+2024-02-05T00:40:34	fastify.get('/city/:id')
+2024-02-05T00:40:34	fastify.post('/city/:id')
+2024-02-05T00:40:34	fastify.put('/city/:id')
+2024-02-05T00:40:34	fastify.delete('/city/:id')
+2024-02-05T00:40:34	fastify.get('/country/:id')
+2024-02-05T00:40:34	fastify.delete('/country/:id')
+2024-02-05T00:40:34	fastify.get('/user/:id')
+2024-02-05T00:40:34	fastify.post('/user/:id')
+2024-02-05T00:40:34	fastify.put('/user/:id')
+2024-02-05T00:40:34	fastify.delete('/user/:id')
+2024-02-05T00:40:34	Fastify. API on port 8000
+2024-02-05T00:41:18	get /user/
+2024-02-05T00:41:24	post /user/
+2024-02-05T00:41:29	get /user/15
+2024-02-05T00:41:38	get /user/14
+2024-02-05T00:41:42	get /user/
+2024-02-05T00:41:46	get /user/16
+2024-02-05T00:41:50	delete /user/16
+2024-02-05T00:41:53	get /user/16
+2024-02-05T00:41:55	get /user/

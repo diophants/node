@@ -1,6 +1,7 @@
 module.exports = {
   api: {
     port: 8000,
+    transport: 'http',
   },
   static: {
     port: 8001,
@@ -15,14 +16,5 @@ module.exports = {
   sendbox: { timeout: 5000, displayErrors: false },
   crypto: {
     passLength: 64,
-  },
-  transport: {
-    protocol: 'http',
-  },
-  framework: {
-    native: 'fastify',
-  },
-  library: {
-    logger: 'logger',
   },
 };

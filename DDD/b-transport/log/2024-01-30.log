@@ -1,0 +1,322 @@
+2024-01-30T08:07:55	API on port 8000
+2024-01-30T08:07:55	Static on port 8001
+2024-01-30T08:08:07	Connected: ::1
+2024-01-30T08:08:35	API on port 8000
+2024-01-30T08:08:35	Static on port 8001
+2024-01-30T08:08:36	Connected: ::1
+2024-01-30T08:11:33	API on port 8000
+2024-01-30T08:11:33	Static on port 8001
+2024-01-30T08:11:35	Connected: ::1
+2024-01-30T08:12:13	API on port 8000
+2024-01-30T08:12:13	Static on port 8001
+2024-01-30T08:12:14	Connected: ::1
+2024-01-30T08:17:14	API on port 8000
+2024-01-30T08:17:14	Static on port 8001
+2024-01-30T08:17:15	Connected: ::1
+2024-01-30T08:18:07	API on port 8000
+2024-01-30T08:18:07	Static on port 8001
+2024-01-30T08:18:08	Connected: ::1
+2024-01-30T08:23:08	API on port 8000
+2024-01-30T08:23:08	Static on port 8001
+2024-01-30T08:23:10	Connected: ::1
+2024-01-30T08:24:11	API on port 8000
+2024-01-30T08:24:11	Static on port 8001
+2024-01-30T08:24:13	Connected: ::1
+2024-01-30T08:29:32	API on port 8000
+2024-01-30T08:29:32	Static on port 8001
+2024-01-30T08:29:34	Connected: ::1
+2024-01-30T08:29:42	API on port 8000
+2024-01-30T08:29:42	Static on port 8001
+2024-01-30T08:29:44	Connected: ::1
+2024-01-30T08:30:15	Connected: ::1
+2024-01-30T08:30:39	API on port 8000
+2024-01-30T08:30:39	Static on port 8001
+2024-01-30T08:30:40	Connected: ::1
+2024-01-30T08:31:08	API on port 8000
+2024-01-30T08:31:08	Static on port 8001
+2024-01-30T08:31:09	::1 GET /user
+2024-01-30T08:32:00	API on port 8000
+2024-01-30T08:32:00	Static on port 8001
+2024-01-30T08:32:01	Connected: ::1
+2024-01-30T08:32:06	API on port 8000
+2024-01-30T08:32:06	Static on port 8001
+2024-01-30T08:32:07	Connected: ::1
+2024-01-30T08:32:16	API on port 8000
+2024-01-30T08:32:16	Static on port 8001
+2024-01-30T08:32:18	Connected: ::1
+2024-01-30T08:32:18	::1 country.delete(4)
+2024-01-30T08:32:18	::1 country.read()
+2024-01-30T08:32:18	API country:  undefined
+2024-01-30T08:33:12	API on port 8000
+2024-01-30T08:33:12	Static on port 8001
+2024-01-30T08:33:13	Connected: ::1
+2024-01-30T08:35:05	API on port 8000
+2024-01-30T08:35:05	Static on port 8001
+2024-01-30T08:35:07	Connected: ::1
+2024-01-30T08:35:24	API on port 8000
+2024-01-30T08:35:24	Static on port 8001
+2024-01-30T08:35:26	Connected: ::1
+2024-01-30T08:35:26	::1 country.delete(4)
+2024-01-30T08:35:26	::1 country.read()
+2024-01-30T08:35:26	API country:  undefined
+2024-01-30T08:36:01	API on port 8000
+2024-01-30T08:36:01	Static on port 8001
+2024-01-30T08:36:03	Connected: ::1
+2024-01-30T08:37:08	API on port 8000
+2024-01-30T08:37:08	Static on port 8001
+2024-01-30T08:37:10	Connected: ::1
+2024-01-30T08:37:10	::1 country.delete(4)
+2024-01-30T08:37:10	::1 country.read()
+2024-01-30T08:37:10	API country:  undefined
+2024-01-30T08:38:05	API on port 8000
+2024-01-30T08:38:05	Static on port 8001
+2024-01-30T08:38:06	Connected: ::1
+2024-01-30T08:38:06	::1 country.delete(4)
+2024-01-30T08:38:06	::1 country.read()
+2024-01-30T08:38:06	API country:  undefined
+2024-01-30T08:38:22	API on port 8000
+2024-01-30T08:38:22	Static on port 8001
+2024-01-30T08:38:23	Connected: ::1
+2024-01-30T08:39:48	API on port 8000
+2024-01-30T08:39:48	Static on port 8001
+2024-01-30T08:39:49	Connected: ::1
+2024-01-30T08:40:05	API on port 8000
+2024-01-30T08:40:05	Static on port 8001
+2024-01-30T08:40:07	Connected: ::1
+2024-01-30T08:40:31	API on port 8000
+2024-01-30T08:40:31	Static on port 8001
+2024-01-30T08:40:32	Connected: ::1
+2024-01-30T08:41:48	API on port 8000
+2024-01-30T08:41:48	Static on port 8001
+2024-01-30T08:42:35	API on port 8000
+2024-01-30T08:42:35	Static on port 8001
+2024-01-30T08:42:51	API on port 8000
+2024-01-30T08:42:51	Static on port 8001
+2024-01-30T08:43:05	API on port 8000
+2024-01-30T08:43:05	Static on port 8001
+2024-01-30T08:44:26	API on port 8000
+2024-01-30T08:44:26	Static on port 8001
+2024-01-30T08:45:08	API on port 8000
+2024-01-30T08:45:08	Static on port 8001
+2024-01-30T08:45:10	::1 GET /user
+2024-01-30T08:56:48	API on port 8000
+2024-01-30T08:56:48	Static on port 8001
+2024-01-30T08:57:33	API on port 8000
+2024-01-30T08:57:33	Static on port 8001
+2024-01-30T08:57:43	API on port 8000
+2024-01-30T08:57:43	Static on port 8001
+2024-01-30T08:57:45	::1 GET /user
+2024-01-30T08:57:53	API on port 8000
+2024-01-30T08:57:53	Static on port 8001
+2024-01-30T08:58:11	API on port 8000
+2024-01-30T08:58:11	Static on port 8001
+2024-01-30T08:58:29	API on port 8000
+2024-01-30T08:58:29	Static on port 8001
+2024-01-30T08:58:36	API on port 8000
+2024-01-30T08:58:36	Static on port 8001
+2024-01-30T08:59:08	API on port 8000
+2024-01-30T08:59:08	Static on port 8001
+2024-01-30T08:59:35	API on port 8000
+2024-01-30T08:59:35	Static on port 8001
+2024-01-30T09:00:01	API on port 8000
+2024-01-30T09:00:01	Static on port 8001
+2024-01-30T09:00:45	API on port 8000
+2024-01-30T09:00:45	Static on port 8001
+2024-01-30T09:01:31	API on port 8000
+2024-01-30T09:01:31	Static on port 8001
+2024-01-30T09:01:48	API on port 8000
+2024-01-30T09:01:48	Static on port 8001
+2024-01-30T09:02:27	API on port 8000
+2024-01-30T09:02:27	Static on port 8001
+2024-01-30T09:04:04	API on port 8000
+2024-01-30T09:04:04	Static on port 8001
+2024-01-30T09:04:14	API on port 8000
+2024-01-30T09:04:14	Static on port 8001
+2024-01-30T09:05:01	API on port 8000
+2024-01-30T09:05:01	Static on port 8001
+2024-01-30T09:05:21	API on port 8000
+2024-01-30T09:05:21	Static on port 8001
+2024-01-30T09:06:10	API on port 8000
+2024-01-30T09:06:10	Static on port 8001
+2024-01-30T09:06:21	API on port 8000
+2024-01-30T09:06:21	Static on port 8001
+2024-01-30T09:06:47	API on port 8000
+2024-01-30T09:06:47	Static on port 8001
+2024-01-30T09:06:54	API on port 8000
+2024-01-30T09:06:54	Static on port 8001
+2024-01-30T09:07:44	API on port 8000
+2024-01-30T09:07:44	Static on port 8001
+2024-01-30T09:07:55	API on port 8000
+2024-01-30T09:07:55	Static on port 8001
+2024-01-30T09:08:13	API on port 8000
+2024-01-30T09:08:13	Static on port 8001
+2024-01-30T09:09:25	API on port 8000
+2024-01-30T09:09:25	Static on port 8001
+2024-01-30T09:09:44	API on port 8000
+2024-01-30T09:09:44	Static on port 8001
+2024-01-30T09:09:45	result
+2024-01-30T09:09:46	result
+2024-01-30T09:09:47	result
+2024-01-30T09:09:47	result
+2024-01-30T09:09:47	result
+2024-01-30T09:09:48	result
+2024-01-30T09:09:48	result
+2024-01-30T09:09:57	API on port 8000
+2024-01-30T09:09:57	Static on port 8001
+2024-01-30T09:10:11	API on port 8000
+2024-01-30T09:10:11	Static on port 8001
+2024-01-30T09:10:14	
+2024-01-30T09:10:23	API on port 8000
+2024-01-30T09:10:23	Static on port 8001
+2024-01-30T09:10:25	/
+2024-01-30T09:10:59	API on port 8000
+2024-01-30T09:10:59	Static on port 8001
+2024-01-30T09:11:00	/
+2024-01-30T09:11:00	/user
+2024-01-30T09:11:00	::1 GET /user
+2024-01-30T09:11:20	API on port 8000
+2024-01-30T09:11:20	Static on port 8001
+2024-01-30T09:11:21	/
+2024-01-30T09:11:21	/user
+2024-01-30T09:11:21	::1 GET /user
+2024-01-30T09:11:35	API on port 8000
+2024-01-30T09:11:35	Static on port 8001
+2024-01-30T09:11:36	/
+2024-01-30T09:11:49	API on port 8000
+2024-01-30T09:11:49	Static on port 8001
+2024-01-30T09:11:50	/
+2024-01-30T09:11:50	/user
+2024-01-30T09:11:50	::1 GET /user
+2024-01-30T09:12:40	API on port 8000
+2024-01-30T09:12:40	Static on port 8001
+2024-01-30T09:12:42	::1 GET /user
+2024-01-30T09:12:42	Result {; command: 'SELECT',; rowCount: 5,; oid: null,; rows: [; {; id: '1',; login: 'admin',; password: 'xkBaB29tzhgKCOa86iBJrA==:NEYmWWjU9oORZ7JOE4uELWQiUu4/MSpL3ybEV8Iwz39+lI+mDhaok0krN1pKQWfQfoVNzBa57F1020njPI4eSQ=='; },; {; id: '2',; login: 'diophant',; password: 'tpDsUjmTVao5+HH+Vh3L8g==:qslE0EeXZzHMqecYGfSEDYkFFQ6EBithTgi/r3vso7O8JXZPpwmFddz1nOTgSHVSbVEu65Tvh+QHG5m0f3lWpA=='; },; {; id: '3',; login: 'user',; password: 'jv/nOhkORj+WOc9TYHD7iQ==:b1V0L3g4THIqRYMWGWNQpxiGx97CRiE3TqRJ961UToUm3vjLTv8sKFqWSlSDesW54qx9ZF+/LZm79qNisxJQhQ=='; },; {; id: '4',; login: 'vasya',; password: 'riT2AogySHr/+BqRTQhHpA==:LXAcm6aupOE3kuEu+sVHgE2+BI8tp25J+hLO3gPLpYa7Ei4SPzodZvUWIuMzW0LtwVnuCf+025vwWscEyA6QjA=='; },; {; id: '6',; login: 'Ivan',; password: 'RKWAK5rNxN0xGWM91Ybj5w==:h/CpmWA7bP9bAzALHndzcvteWjdmwWCdTuAyMXhxNgWnRmkTGVTByruMLxFeMaig/11zYHqYrghyP3KOHjFKBw=='; }; ],; fields: [; Field {; name: 'id',; tableID: 17237,; columnID: 1,; dataTypeID: 20,; dataTypeSize: 8,; dataTypeModifier: -1,; format: 'text'; },; Field {; name: 'login',; tableID: 17237,; columnID: 2,; dataTypeID: 1043,; dataTypeSize: -1,; dataTypeModifier: -1,; format: 'text'; },; Field {; name: 'password',; tableID: 17237,; columnID: 3,; dataTypeID: 1043,; dataTypeSize: -1,; dataTypeModifier: -1,; format: 'text'; }; ],; _parsers: [; [Function: parseBigInteger],; [Function: noParse],; [Function: noParse]; ],; _types: TypeOverrides {; _types: {; getTypeParser: [Function: getTypeParser],; setTypeParser: [Function: setTypeParser],; arrayParser: [Object],; builtins: [Object]; },; text: {},; binary: {}; },; RowCtor: null,; rowAsArray: false,; _prebuiltEmptyResultObject: { id: null, login: null, password: null }; }
+2024-01-30T09:13:21	API on port 8000
+2024-01-30T09:13:21	Static on port 8001
+2024-01-30T09:13:22	::1 GET /user
+2024-01-30T09:14:15	::1 GET /user
+2024-01-30T09:15:44	API on port 8000
+2024-01-30T09:15:44	Static on port 8001
+2024-01-30T09:15:46	/
+2024-01-30T09:15:46	/user
+2024-01-30T09:15:46	::1 GET /user
+2024-01-30T09:16:00	API on port 8000
+2024-01-30T09:16:00	Static on port 8001
+2024-01-30T09:16:01	/
+2024-01-30T09:16:23	API on port 8000
+2024-01-30T09:16:23	Static on port 8001
+2024-01-30T09:16:39	API on port 8000
+2024-01-30T09:16:39	Static on port 8001
+2024-01-30T09:16:40	/
+2024-01-30T09:16:40	/
+2024-01-30T09:16:41	/
+2024-01-30T09:16:41	/
+2024-01-30T09:16:54	API on port 8000
+2024-01-30T09:16:54	Static on port 8001
+2024-01-30T09:16:55	/user
+2024-01-30T09:16:55	::1 GET /user
+2024-01-30T09:16:55	/
+2024-01-30T09:17:41	API on port 8000
+2024-01-30T09:17:41	Static on port 8001
+2024-01-30T09:17:42	/user
+2024-01-30T09:17:42	::1 GET /user
+2024-01-30T09:17:42	/
+2024-01-30T09:23:25	API on port 8000
+2024-01-30T09:23:25	Static on port 8001
+2024-01-30T09:23:27	/
+2024-01-30T09:23:27	/user
+2024-01-30T09:23:27	::1 GET /user
+2024-01-30T09:23:50	API on port 8000
+2024-01-30T09:23:51	Static on port 8001
+2024-01-30T09:23:52	/
+2024-01-30T09:23:52	/user
+2024-01-30T09:23:52	::1 GET /user
+2024-01-30T09:23:59	API on port 8000
+2024-01-30T09:23:59	Static on port 8001
+2024-01-30T09:24:00	/
+2024-01-30T09:24:00	/user
+2024-01-30T09:24:00	::1 GET /user
+2024-01-30T09:24:31	API on port 8000
+2024-01-30T09:24:31	Static on port 8001
+2024-01-30T09:24:40	/
+2024-01-30T09:25:20	API on port 8000
+2024-01-30T09:25:20	Static on port 8001
+2024-01-30T09:25:22	/user/
+2024-01-30T09:25:22	::1 GET /user/
+2024-01-30T09:25:22	/
+2024-01-30T09:26:06	API on port 8000
+2024-01-30T09:26:06	Static on port 8001
+2024-01-30T09:26:08	/
+2024-01-30T09:26:08	/user/
+2024-01-30T09:26:25	API on port 8000
+2024-01-30T09:26:25	Static on port 8001
+2024-01-30T09:26:26	/
+2024-01-30T09:26:26	/user/
+2024-01-30T09:26:26	::1 GET /user/
+2024-01-30T09:26:36	API on port 8000
+2024-01-30T09:26:36	Static on port 8001
+2024-01-30T09:26:37	/
+2024-01-30T09:26:37	/user/
+2024-01-30T09:29:56	API on port 8000
+2024-01-30T09:29:56	Static on port 8001
+2024-01-30T09:29:57	/
+2024-01-30T09:29:57	/user/1
+2024-01-30T09:30:12	API on port 8000
+2024-01-30T09:30:12	Static on port 8001
+2024-01-30T09:30:13	/
+2024-01-30T09:30:13	/user/4
+2024-01-30T09:30:18	API on port 8000
+2024-01-30T09:30:18	Static on port 8001
+2024-01-30T09:30:19	/
+2024-01-30T09:30:19	/user/
+2024-01-30T09:30:19	::1 GET /user/
+2024-01-30T09:30:59	API on port 8000
+2024-01-30T09:30:59	Static on port 8001
+2024-01-30T09:31:00	/
+2024-01-30T09:31:00	/user/4
+2024-01-30T09:33:20	API on port 8000
+2024-01-30T09:33:20	Static on port 8001
+2024-01-30T09:33:25	/
+2024-01-30T09:33:25	/user/4
+2024-01-30T09:33:37	API on port 8000
+2024-01-30T09:33:37	Static on port 8001
+2024-01-30T09:33:49	API on port 8000
+2024-01-30T09:33:49	Static on port 8001
+2024-01-30T09:33:50	/
+2024-01-30T09:33:50	/user/
+2024-01-30T09:33:50	/user/
+2024-01-30T09:34:58	API on port 8000
+2024-01-30T09:34:58	Static on port 8001
+2024-01-30T09:34:59	/
+2024-01-30T09:34:59	/user/
+2024-01-30T09:34:59	/user/
+2024-01-30T09:35:33	API on port 8000
+2024-01-30T09:35:33	Static on port 8001
+2024-01-30T09:35:34	/
+2024-01-30T09:35:34	/user/
+2024-01-30T09:35:46	API on port 8000
+2024-01-30T09:35:46	Static on port 8001
+2024-01-30T09:35:47	/
+2024-01-30T09:35:47	/user/
+2024-01-30T09:35:47	/user/
+2024-01-30T09:36:30	API on port 8000
+2024-01-30T09:36:30	Static on port 8001
+2024-01-30T09:36:31	/
+2024-01-30T09:36:31	/user/
+2024-01-30T09:36:31	/user/
+2024-01-30T09:37:37	API on port 8000
+2024-01-30T09:37:37	Static on port 8001
+2024-01-30T09:37:38	/
+2024-01-30T09:37:38	/user/
+2024-01-30T09:37:38	/user/
+2024-01-30T09:37:38	::1 POST /user/
+2024-01-30T09:37:38	[ { login: 'Petya', password: 'Petuh' } ]
+2024-01-30T09:37:38	/user/
+2024-01-30T09:37:38	::1 GET /user/
+2024-01-30T09:37:38	[ '' ]
+2024-01-30T09:38:00	API on port 8000
+2024-01-30T09:38:00	Static on port 8001
+2024-01-30T09:38:01	Connected: ::1
+2024-01-30T09:38:01	::1 country.delete(4)
+2024-01-30T09:38:01	::1 country.read()
+2024-01-30T09:38:01	API country:  undefined
